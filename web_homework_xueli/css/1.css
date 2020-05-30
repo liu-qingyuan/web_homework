@@ -2,7 +2,7 @@
 * @Author: 14640
 * @Date:   2020-05-29 20:43:17
 * @Last Modified by:   14640
-* @Last Modified time: 2020-05-31 00:06:59
+* @Last Modified time: 2020-05-31 01:20:27
 */
 .contain
 {
@@ -105,6 +105,10 @@
 .inputText,.submit
 {
 	float: left;
+}
+.main
+{
+	background: #f3f5f7;
 }
 .MainTop
 {
